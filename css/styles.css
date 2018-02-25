@@ -344,7 +344,7 @@ nav a:focus {
 
 .wrapper {background: #DDDDDD;}
 
-.massage {padding: 112px; margin: 0px; text-align: left;}
+.massage {padding: 20px; margin: 0px; text-align: left;}
 
 .imagen {
 	min-height: 15rem;
@@ -368,7 +368,7 @@ nav a:focus {
 	grid-template-columns: 50% 50%;
 }
 	
-.massage {padding: 20px; margin: 0px; text-align: left;}	
+.massage {padding: 112px; margin: 0px; text-align: left;}	
 	
   .imagen {
 	min-height: 25rem;
