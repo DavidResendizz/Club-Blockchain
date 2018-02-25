@@ -367,6 +367,9 @@ nav a:focus {
 	display: grid;
 	grid-template-columns: 50% 50%;
 }
+	
+.massage {padding: 20px; margin: 0px; text-align: left;}	
+	
   .imagen {
 	min-height: 25rem;
 	background-size: cover;
