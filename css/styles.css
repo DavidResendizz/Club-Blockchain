@@ -130,6 +130,12 @@ p:last-of-type {
 	}
 }
 
+@media (max-width: 400px ) {
+	.title {
+		padding-top: 1em;
+	}
+}
+
 /* buttons */
 
 .button {
