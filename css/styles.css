@@ -415,6 +415,13 @@ nav a:focus {
 	margin-top: 70px;
 }
 
+@media (min-width: 700px) {
+		.video {
+		width: 513px;
+		height: 350px;
+		}
+		}
+
    @media (min-width: 700px) {
 .videoyt {
 	display: grid;
